@@ -1,0 +1,42 @@
+body
+{
+	font-family: Helvetica, Arial;
+	text-align: center;
+	font-size:15px;
+}
+
+img
+{
+	width: 400px;
+	margin-top: 50px;
+}
+
+h1
+{
+	text-align: center;
+}
+
+p
+{
+	margin-bottom: 10px;
+	width:400px;
+	margin-left:auto;
+	margin-right: auto;
+	text-align: justify;
+}
+
+#intro
+{
+	color:#999;
+}
+
+#menu
+{
+	text-align: right;
+}
+
+a
+{
+	color: red;
+	text-decoration: none;
+}
